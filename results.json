@@ -1,0 +1,47 @@
+[
+ {
+  "trial": 0,
+  "krylov_dim": 35,
+  "key_recovered": true,
+  "plaintext": "Super Secret Message!!!",
+  "index_e": 2,
+  "period_bits": 31.4,
+  "period": "2798629470",
+  "factor_degrees": [
+   [
+    5,
+    1
+   ],
+   [
+    4,
+    2
+   ],
+   [
+    4,
+    2
+   ],
+   [
+    3,
+    1
+   ],
+   [
+    2,
+    2
+   ],
+   [
+    2,
+    2
+   ],
+   [
+    1,
+    1
+   ]
+  ],
+  "largest_prime_of_period_bits": 7.2,
+  "a_recovered_mod_l": true,
+  "t_keyexchange": 104.7,
+  "t_key_attack": 1.26,
+  "t_dlp": 0.32,
+  "direct_check_y_g^a_rec==A": true
+ }
+]
